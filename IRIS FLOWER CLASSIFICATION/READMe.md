@@ -38,6 +38,9 @@ In this project, I compared three machine learning algorithms for Iris flower cl
 Knn - nearest Neighbours slightly outperformed the Logistic Regression & Decision Tree Classifier, indicating it was better suited for this dataset. However, All models demonstrated strong performance, confirming the effectiveness of these techniques for Iris flower classification. Future work could explore other advanced algorithms to further improve accuracy.
 
 
+## LINKEDIN Post :
+https://www.linkedin.com/posts/komal-b61580158_datascienceintern-internshipsuccess-datasciencejourney-activity-7212255580466421761-sSHP?utm_source=share&utm_medium=member_desktop
+
 ## Contact Information :
 For any inquiries or feedback regarding this project, please contact :
 
