@@ -55,6 +55,9 @@ Random Forest slightly outperformed the Logistic Regression , Decision Tree Clas
 
 ### These findings suggest that Random Forest model with Accuracy (79.32%) shows potential for accurately predicting survival. However, it's important to acknowledge that there may be additional factors and complexities influencing prediction that were not captured in our analysis. Further research and refinement of the model, possibly incorporating additional features or employing more advanced modeling techniques, could lead to even more accurate predictions.
 
+## LinkedIn Post :
+https://www.linkedin.com/posts/komal-b61580158_datascienceintern-internshipsuccess-datasciencejourney-activity-7212629041164484609-un49?utm_source=share&utm_medium=member_desktop
+
 ## Contact Information :
 For any inquiries or feedback regarding this project, please contact :
 
