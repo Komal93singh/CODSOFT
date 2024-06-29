@@ -34,8 +34,10 @@ Description: This project focuses on analyzing the Titanic dataset to predict pa
 https://www.kaggle.com/datasets/yasserh/titanic-dataset
 ---
 
-Each project folder contains detailed documentation and code files showcasing the analysis, methodology and results.
-Thank you for visiting my portfolio & reviewing my submission!
+### Each project folder contains detailed documentation and code files showcasing the analysis, methodology and results.
+### Thank you for visiting my portfolio & reviewing my submission!
+
+
 
 🙏 Gratitude :
 I’m immensely grateful for the mentorship and support from codsoft and supervisors during this internship. Their guidance was invaluable in navigating the complexities of this project.
