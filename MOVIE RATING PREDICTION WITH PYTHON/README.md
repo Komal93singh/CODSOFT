@@ -48,6 +48,9 @@ https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies/data
 - These findings suggest that the linear regression model shows potential for accurately predicting movie ratings. However, it's important to acknowledge that there may be additional factors and complexities influencing movie ratings that were not captured in our analysis. Further research and refinement of the model, possibly incorporating additional features or employing more advanced modeling techniques, could lead to even more accurate predictions.
   
 
+## LinkedIn  Post :
+https://www.linkedin.com/posts/komal-b61580158_datascienceintern-internshipsuccess-datasciencejourney-activity-7212266779882967040-59h1?utm_source=share&utm_medium=member_desktop
+
 ## Contact Information :
 For any inquiries or feedback regarding this project, please contact :
 
