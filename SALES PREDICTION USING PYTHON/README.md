@@ -41,6 +41,9 @@ https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/inp
 
 ### The analysis demonstrates that advertising spending positively correlates with sales, with TV advertising having the highest impact. By strategically increasing investments in the most effective channels, the company can optimize its advertising budget to maximize sales and achieve better returns on investment.
 
+## LinkedIn Post :
+https://www.linkedin.com/posts/komal-b61580158_datascienceintern-internshipsuccess-datasciencejourney-activity-7212522975718203392-Blhd?utm_source=share&utm_medium=member_desktop
+
 ## Contact Information :
 For any inquiries or feedback regarding this project, please contact :
 
